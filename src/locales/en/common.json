@@ -1,0 +1,84 @@
+{
+  "navbar": {
+    "title": "Beauty Clinic"
+  },
+  "toolbarButtons": {
+    "services": "Services",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "hero": {
+    "welcome": "Welcome to Beauty Clinic",
+    "title": "Transform Your Beauty",
+    "description": "Experience world-class plastic surgery and dental care services",
+    "bookConsultation": "Book Consultation"
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "Discover our range of premium beauty treatments",
+    "list": {
+      "facial": {
+        "title": "Facial Aesthetics",
+        "description": "Advanced facial treatments to enhance your natural beauty"
+      },
+      "dental": {
+        "title": "Dental Care", 
+        "description": "Complete dental transformation for a perfect smile"
+      },
+      "body": {
+        "title": "Body Countouring",
+        "description": "Advanced body shaping and contouring treatments"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "description": "Transparent pricing for our services",
+    "selectPlan": "Select Plan",
+    "plans": {
+      "basic": {
+        "name": "Basic Plan",
+        "price": "$99",
+        "priceSubtext": "/session",
+        "features": {
+          "consultation": "Initial Consultation",
+          "basicTreatment": "Basic Treatment",
+          "followUp": "Follow-up Session"
+        }
+      },
+      "standard": {
+        "name": "Standard Plan",
+        "price": "$199",
+        "priceSubtext": "/session",
+        "features": {
+          "consultation": "Initial Consultation",
+          "advancedTreatment": "Advanced Treatment",
+          "followUp": "Follow-up Session",
+          "aftercarePlan": "Aftercare Plan"
+        }
+      },
+      "premium": {
+        "name": "Premium Plan",
+        "price": "$299",
+        "priceSubtext": "/session",
+        "features": {
+          "consultation": "Initial Consultation",
+          "comprehensiveTreatment": "Comprehensive Treatment",
+          "multipleSessions": "Multiple Sessions",
+          "aftercarePlan": "Aftercare Plan",
+          "luxurySupport": "Luxury Support"
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Get in touch with our specialists",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "advancedSolution": "Advanced Solution",
+    "advancedSolutionSubtext": "Cutting-edge treatments tailored to your unique needs",
+    "vipExperience": "VIP Experience",
+    "vipExperienceSubtext": "Exclusive, personalized care for discerning clients"
+  }
+}

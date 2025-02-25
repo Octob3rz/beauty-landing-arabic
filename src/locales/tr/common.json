@@ -1,0 +1,84 @@
+{
+  "navbar": {
+    "title": "Güzellik Kliniği"
+  },
+  "toolbarButtons": {
+    "services": "Hizmetler",
+    "pricing": "Fiyatlandırma",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "welcome": "Güzellik Kliniğine Hoş Geldiniz",
+    "title": "Güzelliğinizi Dönüştürün",
+    "description": "Dünya standartlarında plastik cerrahi ve diş bakımı hizmetlerinin keyfini çıkarın",
+    "bookConsultation": "Danışma Randevusu Alın"
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "description": "Premium güzellik tedavilerimizin kapsamını keşfedin",
+    "list": {
+      "facial": {
+        "title": "Yüz Estetiği",
+        "description": "Doğal güzelliğinizi geliştirmek için gelişmiş yüz tedavileri"
+      },
+      "dental": {
+        "title": "Diş Bakımı", 
+        "description": "Mükemmel bir gülüş için tam diş dönüşümü"
+      },
+      "body": {
+        "title": "Vücut Şekillendirme",
+        "description": "Gelişmiş vücut şekillendirme ve kontürleme tedavileri"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Fiyatlandırma",
+    "description": "Hizmetlerimiz için şeffaf fiyatlandırma",
+    "selectPlan": "Planı Seç",
+    "plans": {
+      "basic": {
+        "name": "Temel Plan",
+        "price": "99 $",
+        "priceSubtext": "/seans",
+        "features": {
+          "consultation": "İlk Danışma",
+          "basicTreatment": "Temel Tedavi",
+          "followUp": "Takip Seansı"
+        }
+      },
+      "standard": {
+        "name": "Standart Plan",
+        "price": "199 $",
+        "priceSubtext": "/seans",
+        "features": {
+          "consultation": "İlk Danışma",
+          "advancedTreatment": "Gelişmiş Tedavi",
+          "followUp": "Takip Seansı",
+          "aftercarePlan": "Sonrası Bakım Planı"
+        }
+      },
+      "premium": {
+        "name": "Premium Plan",
+        "price": "299 $",
+        "priceSubtext": "/seans",
+        "features": {
+          "consultation": "İlk Danışma",
+          "comprehensiveTreatment": "Kapsamlı Tedavi",
+          "multipleSessions": "Çoklu Seans",
+          "aftercarePlan": "Sonrası Bakım Planı",
+          "luxurySupport": "Lüks Destek"
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Bizimle İletişime Geçin",
+    "description": "Sorularınız mı var? Bize ulaşın ve size yardımcı olalım.",
+    "whatsapp": "WhatsApp Desteği",
+    "email": "E-posta Desteği",
+    "advancedSolution": "Gelişmiş Çözüm",
+    "advancedSolutionSubtext": "Özel ve kapsamlı hizmetlerimizi keşfedin",
+    "vipExperience": "VIP Deneyim",
+    "vipExperienceSubtext": "Ayrıcalıklı bakım ve hizmet"
+  }
+}

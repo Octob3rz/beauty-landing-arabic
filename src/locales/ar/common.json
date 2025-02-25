@@ -1,0 +1,84 @@
+{
+  "navbar": {
+    "title": "عيادة التجميل"
+  },
+  "toolbarButtons": {
+    "services": "الخدمات",
+    "pricing": "التسعير",
+    "contact": "اتصل بنا"
+  },
+  "hero": {
+    "welcome": "مرحبًا بكم في عيادة التجميل",
+    "title": "حسن جمالك",
+    "description": "استمتع بخدمات جراحة التجميل وطب الأسنان ذات الطراز العالمي",
+    "bookConsultation": "احجز استشارة"
+  },
+  "services": {
+    "title": "خدماتنا",
+    "description": "اكتشف مجموعتنا من العلاجات التجميلية الفاخرة",
+    "list": {
+      "facial": {
+        "title": "تجميل الوجه",
+        "description": "علاجات متقدمة للوجه لتعزيز جمالك الطبيعي"
+      },
+      "dental": {
+        "title": "رعاية الأسنان", 
+        "description": "تحويل كامل للأسنان لابتسامة مثالية"
+      },
+      "body": {
+        "title": "تشكيل الجسم",
+        "description": "علاجات متقدمة لتشكيل وتحسين الجسم"
+      }
+    }
+  },
+  "pricing": {
+    "title": "التسعير",
+    "description": "تسعير شفاف لخدماتنا",
+    "selectPlan": "اختر الخطة",
+    "plans": {
+      "basic": {
+        "name": "الخطة الأساسية",
+        "price": "99 دولار",
+        "priceSubtext": "/الجلسة",
+        "features": {
+          "consultation": "استشارة أولية",
+          "basicTreatment": "علاج أساسي",
+          "followUp": "جلسة متابعة"
+        }
+      },
+      "standard": {
+        "name": "الخطة القياسية",
+        "price": "199 دولار",
+        "priceSubtext": "/الجلسة",
+        "features": {
+          "consultation": "استشارة أولية",
+          "advancedTreatment": "علاج متقدم",
+          "followUp": "جلسة متابعة",
+          "aftercarePlan": "خطة الرعاية بعد العلاج"
+        }
+      },
+      "premium": {
+        "name": "الخطة المميزة",
+        "price": "299 دولار",
+        "priceSubtext": "/الجلسة",
+        "features": {
+          "consultation": "استشارة أولية",
+          "comprehensiveTreatment": "علاج شامل",
+          "multipleSessions": "جلسات متعددة",
+          "aftercarePlan": "خطة الرعاية بعد العلاج",
+          "luxurySupport": "دعم فاخر"
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "تواصل معنا",
+    "description": "هل لديك أسئلة؟ اتصل بنا ونحن هنا للمساعدة",
+    "whatsapp": "دعم واتساب",
+    "email": "دعم البريد الإلكتروني",
+    "advancedSolution": "الحل المتقدم",
+    "advancedSolutionSubtext": "اكتشف خدماتنا الخاصة والشاملة",
+    "vipExperience": "تجربة VIP",
+    "vipExperienceSubtext": "رعاية وخدمة متميزة"
+  }
+}
